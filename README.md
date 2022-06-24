@@ -1,5 +1,5 @@
-# BurntSushi's 2018 Advent of Code solutions
----
+# Silver's 2018 Advent of Code solutions
+
 This is my solutions written by **Rust**
 
 And I list the dependencies at the top of each file.
